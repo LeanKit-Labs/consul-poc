@@ -1,0 +1,42 @@
+[
+	{
+		"id": "redis1",
+		"name": "redis",
+		"tags": [
+			"master",
+			"v1"
+		],
+		"address": "127.0.0.1",
+		"port": 8000
+	},
+	{
+		"id": "secure-dbstuff",
+		"name": "secure-dbstuff",
+		"tags": [
+			"db",
+			"v1"
+		],
+		"address": "127.0.0.1",
+		"port": 8001
+	},
+	{
+		"id": "notsosecure-webstuff",
+		"name": "notsosecure-webstuff",
+		"tags": [
+			"web",
+			"v1"
+		],
+		"address": "127.0.0.1",
+		"port": 8080
+	},
+	{
+		"id": "web-worker1",
+		"name": "web-worker1",
+		"tags": [
+			"web",
+			"v1"
+		],
+		"address": "127.0.0.1",
+		"port": 80
+	}
+]

@@ -1,0 +1,21 @@
+{
+	"key": {
+		"": {
+			"policy": "deny"
+		},
+		"web/": {
+			"policy": "read"
+		},
+		"db/": {
+			"policy": "write"
+		}
+	},
+	"service": {
+		"": {
+			"policy": "write"
+		},
+		"secure-": {
+			"policy": "read"
+		}
+	}
+}

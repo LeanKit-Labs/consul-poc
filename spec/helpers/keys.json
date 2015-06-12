@@ -1,0 +1,6 @@
+{
+	"key1": "value1",
+	"web/key1": "web-value1",
+	"db/key1": "db-value1",
+	"service/key1": "service-value1"
+}
